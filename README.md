@@ -9,9 +9,11 @@ Within the first table (retirement_titles.csv) included: *employee number*, *fir
 
 ## Results
 
-This table shows the number of retiring employees per title: 
+This table shows the number of retiring employees per title: [retiring_titles.csv](https://github.com/dewong1/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 
-This table shows employees who are eligible to participate in a mentorship program: 
+This table shows employees who are eligible to participate in a mentorship program: [mentorship_eligibility.csv](https://github.com/dewong1/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
+
+
 
 ### Four major points from the two analysis deliverables 
 
