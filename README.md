@@ -34,7 +34,7 @@ Currently the employees listed in the retirement_titles.csv are employees who ha
 
 A beneficial query to create that can provide more insight is to group the data in the mentorship_eligibility.csv by title. This will show the number of employees eligible for the mentorship program by position title [(Query #2)](https://github.com/dewong1/Pewlett-Hackard-Analysis/blob/main/Queries/Additional%20Queries%20%232.sql). Comparing both tables of the number of retirees by title and number of eligible employees to participate in a mentorship program, it appears that in every category of position title: *Senior Engineer*, *Senior Staff*, *Engineer*, *Staff*, *Technique Leader*, and *Assistant Engineer*, the number of retirees are greater than the eligible employees to participate in a mentorship program. So it seems like there will be enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. However, finding enough additional individuals to hire and fill the possible opened positions is another question.
 
-### *Screenshots of tables created along the way*:
+#### *Screenshots of tables created along the way*:
 
 <img width="990" alt="data-Module-7-Challenge-Image-1" src="https://user-images.githubusercontent.com/107021231/189514863-d3df41cb-450a-4a62-a668-1d02f189dedc.png">
 
